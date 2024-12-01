@@ -21,3 +21,6 @@ Visit the link below to see the games I've made and uploaded to itch.io!
 - App: https://travel-planner-app-liart.vercel.app
 - Issue: https://github.com/narasimha-1511/travel-planner-app/issues/1
 - Figma: https://www.figma.com/design/zcACyG14dxDvgd6lClyvD4/Untitled?node-id=0-1&t=5WhRJXseD9ahBjkE-1
+### Small UI fix for larger project
+- App: https://onlook.dev
+- Issue: https://github.com/onlook-dev/onlook/issues/549
