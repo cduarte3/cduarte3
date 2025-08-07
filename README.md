@@ -7,7 +7,9 @@
 
 Below are the languages and frameworks I have worked with:
 --
-<img width="624" height="311" alt="image" src="https://github.com/user-attachments/assets/f73d5a67-55d0-43da-afa5-5d8abd1d78f7" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f73d5a67-55d0-43da-afa5-5d8abd1d78f7" alt="your image" />
+</div>
 
 
 <!---
