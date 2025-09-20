@@ -1,9 +1,9 @@
 # About Me
 - 👋 Hi, I’m @cduarte3
-- 👀 I’m interested in programming, and soccer
-- 🌱 I’m currently learning at Seneca Polytechnic in my 4th year of the BSD Software Development Course
+- 👀 I’m an aspiring Software Developer comfortable with Front-end, Full-stack, and Backend development
+- 🌱 I graduated from the BSD Software Development Course at Seneca Polytechnic in August 2025
 
-# Visit my portfolio website [here](https://portv2-three.vercel.app)
+# Visit my portfolio website [cduarte.ca](https://cduarte.ca)
 
 Below are the languages and frameworks I have worked with:
 --
@@ -11,11 +11,9 @@ Below are the languages and frameworks I have worked with:
   <img src="https://github.com/user-attachments/assets/f73d5a67-55d0-43da-afa5-5d8abd1d78f7" alt="your image" />
 </div>
 
-
-<!---
-cduarte3/cduarte3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## My Games
 Visit the link below to see the games I've made and uploaded to itch.io!
 - https://christianduarte7.itch.io
+
+## My Projects
+Feel free to look into my pinned and publically available repositiries for more information on my work.
