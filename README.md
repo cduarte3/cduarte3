@@ -5,6 +5,8 @@
 
 # Visit my portfolio website [cduarte.ca](https://cduarte.ca)
 
+# Visit my new app [Chaptr](https://www.chaptr.net)
+
 Below are the languages and frameworks I have worked with:
 --
 <div align="center">
