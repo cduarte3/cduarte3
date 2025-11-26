@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @cduarte3
 - 👀 I’m an aspiring Software Developer comfortable with Front-end, Full-stack, and Backend development
-- 🌱 I graduated from the BSD Software Development Course at Seneca Polytechnic in August 2025
+- 🌱 I graduated with honours from the BSD Software Development Course at Seneca Polytechnic in August 2025
 
 # Visit my portfolio website [cduarte.ca](https://cduarte.ca)
 
