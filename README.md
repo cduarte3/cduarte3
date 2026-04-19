@@ -21,6 +21,8 @@ Below are applications and tools I have utilized for development:
 
 # Visit my new apps - [Pull Rates](https://www.pullrates.com) - [Chaptr](https://www.chaptr.net)
 
+<br/>
+
 ## My Games
 Visit the link below to see the games I've made and uploaded to itch.io!
 - https://christianduarte7.itch.io
