@@ -19,9 +19,10 @@ Below are applications and tools I have utilized for development:
 
 # Visit my portfolio website - [cduarte.ca](https://cduarte.ca)
 
-# Visit my new apps - [Pull Rates](https://www.pullrates.com) - [Chaptr](https://www.chaptr.net)
-
-<br/>
+# Visit my new apps 
+- [PullRates Web](https://www.pullrates.com)
+- [PullRates on Google Play](https://play.google.com/store/apps/details?id=com.pullrates.app)
+- [Chaptr](https://www.chaptr.net)
 
 ## My Games
 Visit the link below to see the games I've made and uploaded to itch.io!
