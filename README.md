@@ -22,7 +22,7 @@ Below are applications and tools I have utilized for development:
 # Visit my new apps 
 - [PullRates Web](https://www.pullrates.com)
 - [PullRates on Google Play](https://play.google.com/store/apps/details?id=com.pullrates.app)
-- [Chaptr](https://www.chaptr.net)
+- [PullRates on App Store](https://apps.apple.com/ca/app/pullrates/id6786170156)
 
 ## My Games
 Visit the link below to see the games I've made and uploaded to itch.io!
